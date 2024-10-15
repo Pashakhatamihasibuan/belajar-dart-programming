@@ -1,0 +1,5 @@
+Konsep variabel ini mirip dengan variabel yang ada pada matematika
+contohnya x, y, z
+
+x = 10
+y = 20
