@@ -1,0 +1,10 @@
+Penamaan variabel bisa menggunakan lowerCamelCase jika mengandung 2 kata dan apabila hanya 1 kata maka lebih baik untuk menuliskan huruf kecil semua
+
+Contoh:
+var namaVariabel
+
+Aturan dalam penamaan yang boleh dilakukan:
+- _namaVariabel
+- $_namaVariabel
+- nama_variabel
+- namaVariabel$
